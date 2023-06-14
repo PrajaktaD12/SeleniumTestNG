@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true" name="/Users/prajakta/Downloads/Prajakta/Selenium/LumaAutomation">
+       <classes>
+           <class name="TestCases.Verify_Login_Functionality"></class>
+           <class name="TestCases.Create_New_Account"></class>
+       </classes>
+    </test>
+</suite>
