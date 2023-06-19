@@ -1,2 +1,1 @@
-# SeleniumTestNG
-# SeleniumTestNG
+# Selenium+TestNG+Javascript
